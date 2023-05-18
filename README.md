@@ -1,5 +1,5 @@
 ## Hi there! I`m Ivan 👋 
-### I’m working on Java, Spring, Maven, Git, Mongo DB, Redis, MYSQL and etc. You can see my works in the repositories.
+### I’m working with Java, Spring, Maven, Git, Mongo DB, Redis, MYSQL and etc. You can see my works in the repositories.
 
 
 ## About me
