@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there! I`m Ivan 👋 
+### I’m working on Java, Spring, Maven, Git, Mongo DB, Redis, MYSQL and etc. You can see my works in the repositories.
+
+
+## About me
+- 👨 I`m 33
+- 🌍 I`m living in Russia at the moment
+- 🌲 I love outdoor activities and reading books
 
 <!--
 **sintez89/sintez89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
